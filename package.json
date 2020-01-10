@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:frontendhot/react-native-progresshub.git"
+    "url": "git+ssh://git@github.com:vuongductuanktmt/react-native-progresshub.git"
   },
   "author": "PanMa",
   "license": "ISC"
